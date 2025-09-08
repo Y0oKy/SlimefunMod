@@ -51,7 +51,7 @@ Check the terms in [LICENSE](LICENSE).
 # 🇧🇷 Português 
 # ✨ Mod inspirado no SlimeFun
 
-Um mod para **Minecraft**, inspirado no famoso plugin **SlimeFun**, criado e desenvolvido por uma fã.  
+Um mod para **Minecraft**, inspirado no famoso plugin **SlimeFun**, criado e desenvolvido por fã.  
 O objetivo é trazer novas mecânicas, itens e sistemas que expandem a jogabilidade, oferecendo uma experiência divertida e criativa para os jogadores.
 
 ---
