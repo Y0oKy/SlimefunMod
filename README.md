@@ -3,6 +3,7 @@
 
 A **Minecraft mod** inspired by the famous plugin **SlimeFun**, created and developed by a fan.  
 The goal is to bring new mechanics, items, and systems that expand gameplay, offering a fun and creative experience for players.
+(https://github.com/Slimefun)
 
 ---
 
@@ -53,6 +54,7 @@ Check the terms in [LICENSE](LICENSE).
 
 Um mod para **Minecraft**, inspirado no famoso plugin **SlimeFun**, criado e desenvolvido por fã.  
 O objetivo é trazer novas mecânicas, itens e sistemas que expandem a jogabilidade, oferecendo uma experiência divertida e criativa para os jogadores.
+(https://github.com/Slimefun)
 
 ---
 
