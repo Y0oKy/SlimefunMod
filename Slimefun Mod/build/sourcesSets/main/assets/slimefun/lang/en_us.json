@@ -1,3 +1,14 @@
 {
-  "item.slimefun.kelp_cookie": "Kelp Cookie"
+  "item.slimefun.kelp_cookie": "Kelp Cookie",
+  "item.slimefun.sifted_ore": "Sifted Ore",
+
+  "item.slimefun.aluminum_dust": "Aluminum Dust",
+  "item.slimefun.copper_dust": "Copper Dust",
+  "item.slimefun.gold_dust": "Gold Dust",
+  "item.slimefun.iron_dust": "Iron Dust",
+  "item.slimefun.lead_dust": "Lead Dust",
+  "item.slimefun.magnesium_dust": "Magnesium Dust",
+  "item.slimefun.silver_dust": "Silver Dust",
+  "item.slimefun.tin_dust": "Tin Dust",
+  "item.slimefun.zinc_dust": "Zinc Dust"
 }

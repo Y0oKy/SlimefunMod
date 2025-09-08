@@ -45,10 +45,20 @@ public class SlimeFun
 
   }
 
-    // Adiciona o item de bloco de exemplo à guia de blocos de construção
+    // Adiciona o item de bloco de exemplo à guia de blocos de Food & Drinks
     private void addCreative(BuildCreativeModeTabContentsEvent event){
         if(event.getTabKey () == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.Kelp_Cookie);
+            event.accept(ModItems.SiftedOre);
+            event.accept(ModItems.Aluminum_Dust);
+            event.accept(ModItems.Copper_Dust);
+            event.accept(ModItems.Gold_Dust);
+            event.accept(ModItems.Iron_Dust);
+            event.accept(ModItems.Lead_Dust);
+            event.accept(ModItems.Magnesium_Dust);
+            event.accept(ModItems.Silver_Dust);
+            event.accept(ModItems.Tin_Dust);
+            event.accept(ModItems.Zinc_Dust);
         }
     }
 
