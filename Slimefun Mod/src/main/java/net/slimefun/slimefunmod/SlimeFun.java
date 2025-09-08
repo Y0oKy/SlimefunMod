@@ -1,7 +1,9 @@
 package net.slimefun.slimefunmod;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.common.CreativeModeTabRegistry;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.event.server.ServerStartingEvent;
@@ -12,6 +14,7 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.slimefun.slimefunmod.item.ModItems;
 import org.slf4j.Logger;
 
 // O valor aqui deve corresponder a uma entrada no arquivo META-INF/mods.toml
@@ -30,7 +33,7 @@ public class SlimeFun
         // Registro para eventos de servidor e outros jogos nos quais temos interesse
         MinecraftForge.EVENT_BUS.register(this);
 
-
+        ModItems.register(modEventBus);
 
         // Registre o item em uma guia criativa
         modEventBus.addListener(this::addCreative);
@@ -44,7 +47,9 @@ public class SlimeFun
 
     // Adiciona o item de bloco de exemplo à guia de blocos de construção
     private void addCreative(BuildCreativeModeTabContentsEvent event){
-
+        if(event.getTabKey () == CreativeModeTabs.FOOD_AND_DRINKS) {
+            event.accept(ModItems.Kelp_Cookie);
+        }
     }
 
     // Você pode usar SubscribeEvent e deixar o Event Bus descobrir métodos para chamar
