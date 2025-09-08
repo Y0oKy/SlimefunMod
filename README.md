@@ -3,6 +3,7 @@
 
 A **Minecraft mod** inspired by the famous plugin **SlimeFun**, created and developed by a fan.  
 The goal is to bring new mechanics, items, and systems that expand gameplay, offering a fun and creative experience for players.
+(https://github.com/Slimefun)
 
 ---
 
@@ -17,16 +18,6 @@ This mod aims to:
 ## 🚀 Project status
 🔧 **In development** – new updates will be released over time.  
 Stay tuned to follow the progress!  
-
----
-
-## 🕹️ How to play
-*(You can later add detailed instructions here, such as Minecraft version, dependencies, `.jar` installation, etc.)*
-
-Example:  
-1. Download the latest version in the [Releases](../../releases) tab.  
-2. Place the `.jar` file into your Minecraft `mods` folder.  
-3. Launch the game and have fun! 🎮  
 
 ---
 
@@ -51,8 +42,9 @@ Check the terms in [LICENSE](LICENSE).
 # 🇧🇷 Português 
 # ✨ Mod inspirado no SlimeFun
 
-Um mod para **Minecraft**, inspirado no famoso plugin **SlimeFun**, criado e desenvolvido por uma fã.  
+Um mod para **Minecraft**, inspirado no famoso plugin **SlimeFun**, criado e desenvolvido por fã.  
 O objetivo é trazer novas mecânicas, itens e sistemas que expandem a jogabilidade, oferecendo uma experiência divertida e criativa para os jogadores.
+(https://github.com/Slimefun)
 
 ---
 
