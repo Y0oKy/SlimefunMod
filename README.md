@@ -21,16 +21,6 @@ Stay tuned to follow the progress!
 
 ---
 
-## 🕹️ How to play
-*(You can later add detailed instructions here, such as Minecraft version, dependencies, `.jar` installation, etc.)*
-
-Example:  
-1. Download the latest version in the [Releases](../../releases) tab.  
-2. Place the `.jar` file into your Minecraft `mods` folder.  
-3. Launch the game and have fun! 🎮  
-
----
-
 ## 🙌 Contributing
 Want to help improve the mod?  
 - Open an **Issue** to report bugs or suggest ideas.  
