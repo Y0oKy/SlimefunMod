@@ -14,6 +14,8 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.slimefun.slimefunmod.block.ModBlocks;
+import net.slimefun.slimefunmod.item.ModCreativeModeTabs;
 import net.slimefun.slimefunmod.item.ModItems;
 import org.slf4j.Logger;
 
@@ -33,7 +35,10 @@ public class SlimeFun
         // Registro para eventos de servidor e outros jogos nos quais temos interesse
         MinecraftForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Registre o item em uma guia criativa
         modEventBus.addListener(this::addCreative);
@@ -49,17 +54,22 @@ public class SlimeFun
     private void addCreative(BuildCreativeModeTabContentsEvent event){
         if(event.getTabKey () == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.Kelp_Cookie);
-            event.accept(ModItems.SiftedOre);
-            event.accept(ModItems.Aluminum_Dust);
-            event.accept(ModItems.Copper_Dust);
-            event.accept(ModItems.Gold_Dust);
-            event.accept(ModItems.Iron_Dust);
-            event.accept(ModItems.Lead_Dust);
-            event.accept(ModItems.Magnesium_Dust);
-            event.accept(ModItems.Silver_Dust);
-            event.accept(ModItems.Tin_Dust);
-            event.accept(ModItems.Zinc_Dust);
+//            event.accept(ModItems.SiftedOre);
+//            event.accept(ModItems.Aluminum_Dust);
+//            event.accept(ModItems.Copper_Dust);
+//            event.accept(ModItems.Gold_Dust);
+//            event.accept(ModItems.Iron_Dust);
+//            event.accept(ModItems.Lead_Dust);
+//            event.accept(ModItems.Magnesium_Dust);
+//            event.accept(ModItems.Silver_Dust);
+//            event.accept(ModItems.Tin_Dust);
+//            event.accept(ModItems.Zinc_Dust);
+//            event.accept(ModItems.Tin_Ingot);
         }
+
+//        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
+//            event.accept(ModBlocks.Tin_Block);
+//        }
     }
 
     // Você pode usar SubscribeEvent e deixar o Event Bus descobrir métodos para chamar
