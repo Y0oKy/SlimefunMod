@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "slimefun:tin_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "slimefun:tin_ingot"
+  }
+}
