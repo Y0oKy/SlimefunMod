@@ -6,6 +6,8 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.slimefun.slimefunmod.SlimeFun;
+import net.slimefun.slimefunmod.item.custom.GoldPan;
+import net.slimefun.slimefunmod.item.custom.NetherGoldPan;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -51,6 +53,13 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> Zinc_Ingot = ITEMS.register("zinc_ingot",
             () -> new Item(new Item.Properties()));
+
+//Tools
+    public static final RegistryObject<Item> GOLDPAN = ITEMS.register("goldpan",
+        () -> new GoldPan(new Item.Properties()));
+    public static final RegistryObject<Item> NETHERGOLDPAN = ITEMS.register("nether_goldpan",
+            () -> new NetherGoldPan(new Item.Properties()));
+
 
 
     public static void register(IEventBus eventBus){

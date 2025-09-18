@@ -44,6 +44,9 @@ public class ModCreativeModeTabs {
                 ouput.accept(ModItems.Zinc_Ingot.get());
                 //Basic Metals Block
                 ouput.accept(ModBlocks.Tin_Block.get());
+            //Tools
+                ouput.accept(ModItems.GOLDPAN.get());
+                ouput.accept(ModItems.NETHERGOLDPAN.get());
 
             }).build());
 
