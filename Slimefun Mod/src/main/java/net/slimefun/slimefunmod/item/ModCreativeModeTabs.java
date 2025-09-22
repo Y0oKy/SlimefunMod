@@ -42,11 +42,27 @@ public class ModCreativeModeTabs {
                 ouput.accept(ModItems.Silver_Ingot.get());
                 ouput.accept(ModItems.Tin_Ingot.get());
                 ouput.accept(ModItems.Zinc_Ingot.get());
+                //Gold Ingot (4 to 24-Carat)
+                ouput.accept(ModItems.Gold_Ingot2C.get());
+                ouput.accept(ModItems.Gold_Ingot4C.get());
+                ouput.accept(ModItems.Gold_Ingot6C.get());
+                ouput.accept(ModItems.Gold_Ingot8C.get());
+                ouput.accept(ModItems.Gold_Ingot10C.get());
+                ouput.accept(ModItems.Gold_Ingot12C.get());
+                ouput.accept(ModItems.Gold_Ingot14C.get());
+                ouput.accept(ModItems.Gold_Ingot16C.get());
+                ouput.accept(ModItems.Gold_Ingot18C.get());
+                ouput.accept(ModItems.Gold_Ingot20C.get());
+                ouput.accept(ModItems.Gold_Ingot22C.get());
+                ouput.accept(ModItems.Gold_Ingot24C.get());
                 //Basic Metals Block
                 ouput.accept(ModBlocks.Tin_Block.get());
             //Tools
                 ouput.accept(ModItems.GOLDPAN.get());
                 ouput.accept(ModItems.NETHERGOLDPAN.get());
+            //Basic Machines
+                ouput.accept(ModBlocks.PANNING_MACHINE.get());
+                ouput.accept(ModBlocks.ORE_WASHER.get());
 
             }).build());
 

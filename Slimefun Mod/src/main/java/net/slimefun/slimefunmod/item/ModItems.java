@@ -53,6 +53,31 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> Zinc_Ingot = ITEMS.register("zinc_ingot",
             () -> new Item(new Item.Properties()));
+    //Gold Ingot (4 to 24-Carat)
+    public static final RegistryObject<Item> Gold_Ingot2C = ITEMS.register("gold_ingot_2c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot4C = ITEMS.register("gold_ingot_4c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot6C = ITEMS.register("gold_ingot_6c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot8C = ITEMS.register("gold_ingot_8c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot10C = ITEMS.register("gold_ingot_10c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot12C = ITEMS.register("gold_ingot_12c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot14C = ITEMS.register("gold_ingot_14c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot16C = ITEMS.register("gold_ingot_16c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot18C = ITEMS.register("gold_ingot_18c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot20C = ITEMS.register("gold_ingot_20c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot22C = ITEMS.register("gold_ingot_22c",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Gold_Ingot24C = ITEMS.register("gold_ingot_24c",
+            () -> new Item(new Item.Properties()));
 
 //Tools
     public static final RegistryObject<Item> GOLDPAN = ITEMS.register("goldpan",

@@ -10,6 +10,8 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.slimefun.slimefunmod.SlimeFun;
+import net.slimefun.slimefunmod.block.custom.OreWasher;
+import net.slimefun.slimefunmod.block.custom.PanningMachine;
 import net.slimefun.slimefunmod.item.ModItems;
 
 import java.util.function.Supplier;
@@ -21,6 +23,12 @@ public class ModBlocks {
     public static final RegistryObject<Block> Tin_Block = registerBlock("tin_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    public static final RegistryObject<Block> PANNING_MACHINE = registerBlock("panning_machine",
+            () -> new PanningMachine(BlockBehaviour.Properties.of()
+                    .strength(2f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+    public static final RegistryObject<Block> ORE_WASHER = registerBlock("ore_washer",
+            () -> new OreWasher(BlockBehaviour.Properties.of()
+                    .strength(2f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block){

@@ -34,7 +34,7 @@ public class NetherGoldPan extends Item {
 
                 // Lista de itens possíveis
                 Item[] dropList = new Item[]{
-                        Items.GHAST_TEAR,
+                        Items.NETHER_WART,
                         Items.GOLD_NUGGET,
                         Items.BLAZE_POWDER,
                         Items.QUARTZ

@@ -18,11 +18,26 @@
   "item.slimefun.silver_ingot": "Silver Ingot",
   "item.slimefun.tin_ingot": "Tin Ingot",
   "item.slimefun.zinc_ingot": "Zinc Ingot",
+  "item.slimefun.gold_ingot_2c": "Gold Ingot 2-Carat",
+  "item.slimefun.gold_ingot_4c": "Gold Ingot 4-Carat",
+  "item.slimefun.gold_ingot_6c": "Gold Ingot 6-Carat",
+  "item.slimefun.gold_ingot_8c": "Gold Ingot 8-Carat",
+  "item.slimefun.gold_ingot_10c": "Gold Ingot 10-Carat",
+  "item.slimefun.gold_ingot_12c": "Gold Ingot 12-Carat",
+  "item.slimefun.gold_ingot_14c": "Gold Ingot 14-Carat",
+  "item.slimefun.gold_ingot_16c": "Gold Ingot 16-Carat",
+  "item.slimefun.gold_ingot_18c": "Gold Ingot 18-Carat",
+  "item.slimefun.gold_ingot_20c": "Gold Ingot 20-Carat",
+  "item.slimefun.gold_ingot_22c": "Gold Ingot 22-Carat",
+  "item.slimefun.gold_ingot_24c": "Gold Ingot 24-Carat",
 
   "item.slimefun.goldpan": "Gold Pan",
   "item.slimefun.nether_goldpan": "Nether Gold Pan",
 
   "block.slimefun.tin_block": "Block of Tin",
+
+  "block.slimefun.panning_machine": "Panning Machine",
+  "block.slimefun.ore_washer": "Ore Washer",
 
   "creativetab.slimefun.slimefun_tab": "SlimeFun"
 }

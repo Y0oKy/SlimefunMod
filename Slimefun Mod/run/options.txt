@@ -14,14 +14,14 @@ glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
-graphicsMode:1
+graphicsMode:0
 guiScale:2
 maxFps:260
 mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"false"
 renderDistance:9
 simulationDistance:9
 screenEffectScale:1.0
