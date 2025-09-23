@@ -1,7 +1,12 @@
 {
   "replace": false,
   "values": [
+    "slimefun:aluminum_block",
+    "slimefun:gold24_block",
+    "slimefun:lead_block",
+    "slimefun:silver_block",
     "slimefun:tin_block",
+    "slimefun:zinc_block",
     "slimefun:ore_washer",
     "slimefun:panning_machine"
   ]

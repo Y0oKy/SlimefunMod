@@ -1,57 +1,63 @@
-[23set.2025 00:04:46.084] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 17, --assetsDir, C:\Users\Pichau\.gradle\caches\forge_gradle\assets, --gameDir, .]
-[23set.2025 00:04:46.096] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.8+9-LTS
-[23set.2025 00:04:46.096] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
-[23set.2025 00:04:46.441] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
-[23set.2025 00:04:46.986] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
-[23set.2025 00:04:47.043] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.5
-[23set.2025 00:04:47.047] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.4
-[23set.2025 00:04:47.050] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.3
-[23set.2025 00:04:47.052] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.2
-[23set.2025 00:04:47.064] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.1
-[23set.2025 00:04:47.081] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.0
-[23set.2025 00:04:47.110] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.0 got version 4.0
-[23set.2025 00:04:47.503] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
-[23set.2025 00:04:47.817] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: Intel(R) HD Graphics 2500 GL version 4.0.0 - Build 10.18.10.5161, Intel
-[23set.2025 00:04:49.502] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[23set.2025 00:04:50.898] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Pichau\.gradle\caches\forge_gradle\assets, --assetIndex, 17]
-[23set.2025 00:04:53.589] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties]
-[23set.2025 00:04:54.450] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[23set.2025 00:04:54.856] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 226 Datafixer optimizations took 1328 milliseconds
-[23set.2025 00:05:04.624] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Pichau/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_official_1.21.1/forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
-[23set.2025 00:05:04.625] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Pichau/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_official_1.21.1/forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
-[23set.2025 00:05:04.690] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23set.2025 00:05:04.702] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
-[23set.2025 00:05:04.914] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
-[23set.2025 00:05:05.762] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
-[23set.2025 00:05:05.762] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
-[23set.2025 00:05:05.826] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[23set.2025 00:05:06.916] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [slimefun]
-[23set.2025 00:05:07.189] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
-[23set.2025 00:05:07.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23set.2025 00:05:07.757] [Worker-Main-1/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
-[23set.2025 00:05:08.663] [Worker-Main-1/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
-[23set.2025 00:05:08.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 52.1.0 Target: null
-[23set.2025 00:05:13.462] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
-[23set.2025 00:05:13.529] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[23set.2025 00:05:13.744] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Alto-falantes (Realtek High Definition Audio)
-[23set.2025 00:05:13.745] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
-[23set.2025 00:05:13.951] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[23set.2025 00:05:14.034] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[23set.2025 00:05:14.035] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[23set.2025 00:05:14.039] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[23set.2025 00:05:14.046] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[23set.2025 00:05:14.069] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[23set.2025 00:05:14.070] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[23set.2025 00:05:14.072] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[23set.2025 00:05:14.076] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[23set.2025 00:05:14.391] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[23set.2025 00:05:14.395] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[23set.2025 00:05:14.397] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[23set.2025 00:05:14.399] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[23set.2025 00:05:14.400] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[23set.2025 00:05:14.489] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[23set.2025 00:05:20.615] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
-[23set.2025 00:05:23.360] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list minecraft:needs_diamond_tool from minecraft:tags/block/needs_diamond_tool.json in data pack mod:slimefun
+[23set.2025 00:48:35.526] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 17, --assetsDir, C:\Users\Pichau\.gradle\caches\forge_gradle\assets, --gameDir, .]
+[23set.2025 00:48:35.530] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.8+9-LTS
+[23set.2025 00:48:35.531] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[23set.2025 00:48:35.693] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[23set.2025 00:48:35.846] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[23set.2025 00:48:35.869] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.5
+[23set.2025 00:48:35.872] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.4
+[23set.2025 00:48:35.875] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.3
+[23set.2025 00:48:35.877] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.2
+[23set.2025 00:48:35.885] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.1
+[23set.2025 00:48:35.893] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.0
+[23set.2025 00:48:35.914] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.0 got version 4.0
+[23set.2025 00:48:36.222] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
+[23set.2025 00:48:36.396] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: Intel(R) HD Graphics 2500 GL version 4.0.0 - Build 10.18.10.5161, Intel
+[23set.2025 00:48:38.028] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[23set.2025 00:48:39.158] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Pichau\.gradle\caches\forge_gradle\assets, --assetIndex, 17]
+[23set.2025 00:48:41.150] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties]
+[23set.2025 00:48:41.735] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/Pichau/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[23set.2025 00:48:42.005] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 226 Datafixer optimizations took 891 milliseconds
+[23set.2025 00:48:48.741] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Pichau/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_official_1.21.1/forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[23set.2025 00:48:48.742] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Pichau/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_official_1.21.1/forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[23set.2025 00:48:48.774] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23set.2025 00:48:48.784] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[23set.2025 00:48:48.949] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[23set.2025 00:48:49.620] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
+[23set.2025 00:48:49.620] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
+[23set.2025 00:48:49.641] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[23set.2025 00:48:50.636] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [slimefun]
+[23set.2025 00:48:50.840] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[23set.2025 00:48:51.086] [Worker-Main-3/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[23set.2025 00:48:51.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23set.2025 00:48:51.701] [Worker-Main-3/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[23set.2025 00:48:52.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 52.1.0 Target: null
+[23set.2025 00:48:52.967] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'slimefun:blockstates/ore_washer.json' in resourcepack: 'mod_resources' for variant: 'facing=south': Unknown blockstate property: 'facing'
+[23set.2025 00:48:52.968] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'slimefun:blockstates/ore_washer.json' in resourcepack: 'mod_resources' for variant: 'facing=east': Unknown blockstate property: 'facing'
+[23set.2025 00:48:52.968] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'slimefun:blockstates/ore_washer.json' in resourcepack: 'mod_resources' for variant: 'facing=north': Unknown blockstate property: 'facing'
+[23set.2025 00:48:52.968] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'slimefun:blockstates/ore_washer.json' in resourcepack: 'mod_resources' for variant: 'facing=west': Unknown blockstate property: 'facing'
+[23set.2025 00:48:52.969] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'slimefun:blockstates/ore_washer.json' missing model for variant: 'slimefun:ore_washer#'
+[23set.2025 00:48:55.417] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[23set.2025 00:48:55.418] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[23set.2025 00:48:55.472] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Alto-falantes (Realtek High Definition Audio)
+[23set.2025 00:48:55.473] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[23set.2025 00:48:55.608] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[23set.2025 00:48:55.656] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[23set.2025 00:48:55.658] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[23set.2025 00:48:55.660] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[23set.2025 00:48:55.664] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[23set.2025 00:48:55.680] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[23set.2025 00:48:55.681] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[23set.2025 00:48:55.682] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[23set.2025 00:48:55.683] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[23set.2025 00:48:55.913] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[23set.2025 00:48:55.917] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[23set.2025 00:48:55.919] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[23set.2025 00:48:55.920] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[23set.2025 00:48:55.921] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[23set.2025 00:48:56.007] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[23set.2025 00:49:02.018] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[23set.2025 00:49:03.594] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Invalid path in pack: slimefun:loot_table/blocks/silver_block .json, ignoring
+[23set.2025 00:49:04.262] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list minecraft:needs_diamond_tool from minecraft:tags/block/needs_diamond_tool.json in data pack mod:slimefun
 java.lang.IllegalStateException: Not a JSON object: null
 	at SECURE-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar!/:?]
 	at SECURE-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar!/:?]
@@ -65,118 +71,223 @@ java.lang.IllegalStateException: Not a JSON object: null
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[23set.2025 00:05:23.752] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1296 recipes
-[23set.2025 00:05:24.167] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
-[23set.2025 00:05:25.330] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
-[23set.2025 00:05:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23set.2025 00:05:25.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23set.2025 00:05:26.298] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23set.2025 00:05:26.402] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23set.2025 00:05:26.517] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23set.2025 00:05:26.520] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 700 ms
-[23set.2025 00:05:26.783] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 9, from 10
-[23set.2025 00:05:26.784] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 9, from 0
-[23set.2025 00:05:27.610] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
-[23set.2025 00:05:27.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:57958b00] logged in with entity id 42 at (-8.409681127212226, -60.0, 3.807919983827525)
-[23set.2025 00:05:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
-[23set.2025 00:05:28.679] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 208 advancements
-[23set.2025 00:05:30.548] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
-[23set.2025 00:05:30.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[23set.2025 00:05:30.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[23set.2025 00:05:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[23set.2025 00:05:43.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
-[23set.2025 00:05:43.417] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Survival Mode
-[23set.2025 00:05:53.152] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 217 advancements
-[23set.2025 00:05:58.933] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 218 advancements
-[23set.2025 00:06:16.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
-[23set.2025 00:06:16.203] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
-[23set.2025 00:09:38.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
-[23set.2025 00:09:38.293] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Survival Mode
-[23set.2025 00:09:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
-[23set.2025 00:09:53.536] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
-[23set.2025 00:13:04.769] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
-[23set.2025 00:13:04.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
-[23set.2025 00:13:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
-[23set.2025 00:13:04.813] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
-[23set.2025 00:13:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[23set.2025 00:13:04.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[23set.2025 00:13:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[23set.2025 00:13:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[23set.2025 00:13:05.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[23set.2025 00:13:05.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[23set.2025 00:13:05.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[23set.2025 00:13:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23set.2025 00:13:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23set.2025 00:13:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23set.2025 00:13:06.916] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.916] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.916] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.916] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.917] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.918] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.919] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.920] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.921] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.922] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
-[23set.2025 00:13:06.923] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:49:04.396] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slimefun:gold24_block
+com.google.gson.JsonParseException: Map entry 'A' : Failed to parse either. First: Input does not contain a key [type]: MapLike[{"item":"slimefun:gold24_ingot"}]; Second: Failed to parse either. First: Not a json array: {"item":"slimefun:gold24_ingot"}; Second: No key tag in MapLike[{"item":"slimefun:gold24_ingot"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: slimefun:gold24_ingot
+	at SECURE-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:72) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:36) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:19) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$new$3(SimpleReloadInstance.java:80) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:143) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:117) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:127) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldDataBlocking(WorldOpenFlows.java:187) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldStem(WorldOpenFlows.java:142) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorldLoadLevelStem(WorldOpenFlows.java:328) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorldCheckVersionCompatibility(WorldOpenFlows.java:315) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorldLoadLevelData(WorldOpenFlows.java:279) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorld(WorldOpenFlows.java:244) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.joinWorld(WorldSelectionList.java:497) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.mouseClicked(WorldSelectionList.java:480) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.components.AbstractSelectionList.mouseClicked(AbstractSelectionList.java:303) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.components.events.ContainerEventHandler.mouseClicked(ContainerEventHandler.java:40) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/net.minecraftforge.forge@52.1.0/net.minecraftforge.client.event.ForgeEventFactoryClient.onScreenMouseClicked(ForgeEventFactoryClient.java:113) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.lambda$onPress$0(MouseHandler.java:95) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.Screen.wrapScreenError(Screen.java:444) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.onPress(MouseHandler.java:95) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.lambda$setup$4(MouseHandler.java:188) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:93) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.lambda$setup$5(MouseHandler.java:188) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at SECURE-BOOTSTRAP/org.lwjgl.glfw@3.3.3+5/org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.3.jar:build 5]
+	at SECURE-BOOTSTRAP/org.lwjgl@3.3.3+5/org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.3.jar:build 5]
+	at SECURE-BOOTSTRAP/org.lwjgl.glfw@3.3.3+5/org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3438) ~[lwjgl-glfw-3.3.3.jar:build 5]
+	at TRANSFORMER/minecraft@1.21.1/com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:134) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:147) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/com.mojang.blaze3d.platform.Window.updateDisplay(Window.java:290) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1203) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:795) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:228) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.1-52.1.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:85) ~[fmlloader-1.21.1-52.1.0.jar!/:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.1-52.1.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:69) ~[fmlloader-1.21.1-52.1.0.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:77) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:97) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:116) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:75) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) [modlauncher-10.2.4.jar!/:?]
+	at net.minecraftforge.bootstrap@2.1.7/net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:188) [bootstrap-2.1.8.jar!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133) [bootstrap-2.1.8.jar:2.1.8]
+	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53) [bootstrap-2.1.8.jar:2.1.8]
+	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19) [bootstrap-2.1.8.jar:2.1.8]
+[23set.2025 00:49:04.507] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slimefun:block_gold24_to_ingot
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: slimefun:gold24_ingot
+	at SECURE-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:72) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:36) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:19) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$new$3(SimpleReloadInstance.java:80) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:143) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:117) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:127) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldDataBlocking(WorldOpenFlows.java:187) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldStem(WorldOpenFlows.java:142) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorldLoadLevelStem(WorldOpenFlows.java:328) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorldCheckVersionCompatibility(WorldOpenFlows.java:315) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorldLoadLevelData(WorldOpenFlows.java:279) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorld(WorldOpenFlows.java:244) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.joinWorld(WorldSelectionList.java:497) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.mouseClicked(WorldSelectionList.java:480) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.components.AbstractSelectionList.mouseClicked(AbstractSelectionList.java:303) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.components.events.ContainerEventHandler.mouseClicked(ContainerEventHandler.java:40) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/net.minecraftforge.forge@52.1.0/net.minecraftforge.client.event.ForgeEventFactoryClient.onScreenMouseClicked(ForgeEventFactoryClient.java:113) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.lambda$onPress$0(MouseHandler.java:95) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.Screen.wrapScreenError(Screen.java:444) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.onPress(MouseHandler.java:95) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.lambda$setup$4(MouseHandler.java:188) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:93) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.MouseHandler.lambda$setup$5(MouseHandler.java:188) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at SECURE-BOOTSTRAP/org.lwjgl.glfw@3.3.3+5/org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.3.jar:build 5]
+	at SECURE-BOOTSTRAP/org.lwjgl@3.3.3+5/org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.3.jar:build 5]
+	at SECURE-BOOTSTRAP/org.lwjgl.glfw@3.3.3+5/org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3438) ~[lwjgl-glfw-3.3.3.jar:build 5]
+	at TRANSFORMER/minecraft@1.21.1/com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:134) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:147) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/com.mojang.blaze3d.platform.Window.updateDisplay(Window.java:290) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1203) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:795) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:228) ~[forge-1.21.1-52.1.0_mapped_official_1.21.1-recomp.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.1-52.1.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:85) ~[fmlloader-1.21.1-52.1.0.jar!/:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.1-52.1.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:69) ~[fmlloader-1.21.1-52.1.0.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:77) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:97) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:116) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:75) [modlauncher-10.2.4.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.4/cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) [modlauncher-10.2.4.jar!/:?]
+	at net.minecraftforge.bootstrap@2.1.7/net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:188) [bootstrap-2.1.8.jar!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133) [bootstrap-2.1.8.jar:2.1.8]
+	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53) [bootstrap-2.1.8.jar:2.1.8]
+	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19) [bootstrap-2.1.8.jar:2.1.8]
+[23set.2025 00:49:04.521] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1304 recipes
+[23set.2025 00:49:04.793] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[23set.2025 00:49:05.571] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[23set.2025 00:49:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23set.2025 00:49:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23set.2025 00:49:06.342] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23set.2025 00:49:06.468] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23set.2025 00:49:06.478] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 483 ms
+[23set.2025 00:49:06.677] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 9, from 10
+[23set.2025 00:49:06.677] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 9, from 0
+[23set.2025 00:49:07.672] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
+[23set.2025 00:49:07.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:752af5cb] logged in with entity id 40 at (-6.511512264797868, -60.0, 4.172804849523361)
+[23set.2025 00:49:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[23set.2025 00:49:08.239] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 218 advancements
+[23set.2025 00:49:22.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
+[23set.2025 00:49:22.612] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Survival Mode
+[23set.2025 00:49:34.185] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 219 advancements
+[23set.2025 00:49:52.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Removed 817 item(s) from player Dev]
+[23set.2025 00:49:52.466] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Removed 817 item(s) from player Dev
+[23set.2025 00:51:56.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[23set.2025 00:51:56.862] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[23set.2025 00:52:48.333] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 220 advancements
+[23set.2025 00:53:56.572] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[23set.2025 00:53:56.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[23set.2025 00:53:56.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[23set.2025 00:53:56.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[23set.2025 00:53:57.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[23set.2025 00:53:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[23set.2025 00:53:57.263] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[23set.2025 00:53:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23set.2025 00:53:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23set.2025 00:53:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23set.2025 00:53:57.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[23set.2025 00:53:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[23set.2025 00:53:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[23set.2025 00:53:57.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[23set.2025 00:53:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23set.2025 00:53:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23set.2025 00:53:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23set.2025 00:54:01.946] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[23set.2025 00:54:02.021] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.021] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.022] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.023] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.024] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.025] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.026] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.026] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.026] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.026] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.026] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.026] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.027] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.027] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.027] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.027] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.028] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.028] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.029] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.029] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.029] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.029] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.030] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.031] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.031] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.031] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.031] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.031] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'
+[23set.2025 00:54:02.031] [Render thread/INFO] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL error GL_INVALID_VALUE'

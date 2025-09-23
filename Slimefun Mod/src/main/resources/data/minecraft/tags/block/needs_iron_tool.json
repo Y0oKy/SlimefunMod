@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "slimefun:tin_block"
+    "slimefun:aluminum_block",
+    "slimefun:gold24_block",
+    "slimefun:lead_block",
+    "slimefun:silver_block",
+    "slimefun:tin_block",
+    "slimefun:zinc_block"
   ]
 }

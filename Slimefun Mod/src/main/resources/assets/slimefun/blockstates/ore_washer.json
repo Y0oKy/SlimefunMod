@@ -1,7 +1,8 @@
 {
-  "variants":{
-    "": {
-      "model": "slimefun:block/ore_washer"
-    }
+  "variants": {
+    "facing=north": { "model": "slimefun:block/ore_washer" },
+    "facing=south": { "model": "slimefun:block/ore_washer", "y": 180 },
+    "facing=west":  { "model": "slimefun:block/ore_washer", "y": 270 },
+    "facing=east":  { "model": "slimefun:block/ore_washer", "y": 90 }
   }
 }

@@ -20,9 +20,27 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, SlimeFun.MOD_ID);
 
+
+    //Basic Metal Blocks
     public static final RegistryObject<Block> Tin_Block = registerBlock("tin_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    public static final RegistryObject<Block> Aluminum_Block = registerBlock("aluminum_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    public static final RegistryObject<Block> Silver_Block = registerBlock("silver_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    public static final RegistryObject<Block> Zinc_Block = registerBlock("zinc_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    public static final RegistryObject<Block> Gold24_Block = registerBlock("gold24_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    public static final RegistryObject<Block> Lead_Block = registerBlock("lead_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    //Machines
     public static final RegistryObject<Block> PANNING_MACHINE = registerBlock("panning_machine",
             () -> new PanningMachine(BlockBehaviour.Properties.of()
                     .strength(2f).requiresCorrectToolForDrops().sound(SoundType.STONE)));

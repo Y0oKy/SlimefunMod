@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "slimefun:gold24_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "slimefun:gold_ingot_24c"
+  }
+}

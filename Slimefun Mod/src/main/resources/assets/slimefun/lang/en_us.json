@@ -35,6 +35,11 @@
   "item.slimefun.nether_goldpan": "Nether Gold Pan",
 
   "block.slimefun.tin_block": "Block of Tin",
+  "block.slimefun.aluminum_block": "Block of Aluminum",
+  "block.slimefun.gold24_block": "Block of Gold (24 - Carat)",
+  "block.slimefun.lead_block": "Block of Lead",
+  "block.slimefun.silver_block": "Block of Silver",
+  "block.slimefun.zinc_block": "Block of Zinc",
 
   "block.slimefun.panning_machine": "Panning Machine",
   "block.slimefun.ore_washer": "Ore Washer",
