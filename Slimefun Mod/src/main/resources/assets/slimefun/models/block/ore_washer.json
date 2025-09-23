@@ -1,6 +1,11 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube",
   "textures": {
-    "all": "slimefun:block/ore_washer"
+    "north": "slimefun:block/ore_washer_front",
+    "south": "slimefun:block/ore_washer_back",
+    "east": "slimefun:block/ore_washer_right",
+    "west": "slimefun:block/ore_washer_left",
+    "up": "slimefun:block/ore_washer_top",
+    "down": "slimefun:block/ore_washer_bottom"
   }
 }

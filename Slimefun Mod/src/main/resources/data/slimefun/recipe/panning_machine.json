@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "slimefun:goldpan"
+    },
+    "X": {
+      "item": "minecraft:cauldron"
+    },
+    "Y": {
+      "tag": "minecraft:trapdoors"
+    }
+  },
+  "pattern": [
+    " Y ",
+    " # ",
+    " X "
+  ],
+  "result": {
+    "count": 1,
+    "id": "slimefun:panning_machine"
+  }
+}

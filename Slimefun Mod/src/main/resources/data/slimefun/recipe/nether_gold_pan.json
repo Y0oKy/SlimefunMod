@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "slimefun:goldpan"
+    },
+    "X": {
+      "item": "minecraft:nether_bricks"
+    }
+  },
+  "pattern": [
+    "X#X",
+    " X "
+  ],
+  "result": {
+    "count": 1,
+    "id": "slimefun:nether_goldpan"
+  }
+}
