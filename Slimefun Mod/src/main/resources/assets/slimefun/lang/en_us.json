@@ -2,6 +2,8 @@
   "item.slimefun.kelp_cookie": "Kelp Cookie",
 
   "item.slimefun.sifted_ore": "Sifted Ore",
+  "item.slimefun.stone_chunk": "Stone Chunk",
+
   "item.slimefun.aluminum_dust": "Aluminum Dust",
   "item.slimefun.copper_dust": "Copper Dust",
   "item.slimefun.gold_dust": "Gold Dust",
@@ -40,6 +42,7 @@
   "block.slimefun.lead_block": "Block of Lead",
   "block.slimefun.silver_block": "Block of Silver",
   "block.slimefun.zinc_block": "Block of Zinc",
+  "block.slimefun.magnesium_block": "Block of Magnesium",
 
   "block.slimefun.panning_machine": "Panning Machine",
   "block.slimefun.ore_washer": "Ore Washer",

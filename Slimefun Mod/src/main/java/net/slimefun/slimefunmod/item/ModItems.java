@@ -15,10 +15,6 @@ public class ModItems {
 //Food
     public static final RegistryObject<Item> Kelp_Cookie = ITEMS.register("kelp_cookie",
             () -> new Item(new Item.Properties()));
-//Miscellaneous Items
-    public static final RegistryObject<Item> SiftedOre = ITEMS.register("sifted_ore",
-            () -> new Item(new Item.Properties()));
-
 //Resources
     //Dust
     public static final RegistryObject<Item> Aluminum_Dust = ITEMS.register("aluminum_dust",
@@ -39,7 +35,6 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> Zinc_Dust = ITEMS.register("zinc_dust",
             () -> new Item(new Item.Properties()));
-
     //Basic Metals
     public static final RegistryObject<Item> Aluminum_Ingot = ITEMS.register("aluminum_ingot",
             () -> new Item(new Item.Properties()));
@@ -78,12 +73,16 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> Gold_Ingot24C = ITEMS.register("gold_ingot_24c",
             () -> new Item(new Item.Properties()));
-
 //Tools
     public static final RegistryObject<Item> GOLDPAN = ITEMS.register("goldpan",
         () -> new GoldPan(new Item.Properties()));
     public static final RegistryObject<Item> NETHERGOLDPAN = ITEMS.register("nether_goldpan",
             () -> new NetherGoldPan(new Item.Properties()));
+//Miscellaneous Items
+    public static final RegistryObject<Item> SiftedOre = ITEMS.register("sifted_ore",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> Stone_Chunk = ITEMS.register("stone_chunk",
+            () -> new Item(new Item.Properties()));
 
 
 

@@ -2,10 +2,10 @@
   "parent": "minecraft:block/cube",
   "textures": {
     "north": "slimefun:block/ore_washer_front",
-    "south": "slimefun:block/ore_washer_back",
-    "east": "slimefun:block/ore_washer_right",
-    "west": "slimefun:block/ore_washer_left",
+    "south": "slimefun:block/ore_washer_side",
+    "east": "slimefun:block/ore_washer_side",
+    "west": "slimefun:block/ore_washer_side",
     "up": "slimefun:block/ore_washer_top",
-    "down": "slimefun:block/ore_washer_bottom"
+    "down": "slimefun:block/ore_washer_top"
   }
 }

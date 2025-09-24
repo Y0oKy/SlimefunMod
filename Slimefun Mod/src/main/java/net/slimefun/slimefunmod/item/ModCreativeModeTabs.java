@@ -20,10 +20,15 @@ public class ModCreativeModeTabs {
     () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.Tin_Ingot.get()))
             .title(Component.translatable("creativetab.slimefun.slimefun_tab"))
             .displayItems((itemDisplayParameters, ouput) ->{
+            //Weapons
+
+            //Items
+
             //Food
                 ouput.accept(ModItems.Kelp_Cookie.get());
-            //Miscellaneous Items
-                ouput.accept(ModItems.SiftedOre.get());
+            //Basic Machines
+                ouput.accept(ModBlocks.PANNING_MACHINE.get());
+                ouput.accept(ModBlocks.ORE_WASHER.get());
             //Resources
                 //Dust
                 ouput.accept(ModItems.Aluminum_Dust.get());
@@ -55,19 +60,36 @@ public class ModCreativeModeTabs {
                 ouput.accept(ModItems.Gold_Ingot20C.get());
                 ouput.accept(ModItems.Gold_Ingot22C.get());
                 ouput.accept(ModItems.Gold_Ingot24C.get());
+            //Tools
+                ouput.accept(ModItems.GOLDPAN.get());
+                ouput.accept(ModItems.NETHERGOLDPAN.get());
+            //Armor's
+
+            //Magical Items
+
+            //Magical Gadgets
+
+            //Talismans
+
+            //Technical Components
+
+            //Miscellaneous Items
+                ouput.accept(ModItems.SiftedOre.get());
+                ouput.accept(ModItems.Stone_Chunk.get());
                 //Basic Metals Block
                 ouput.accept(ModBlocks.Aluminum_Block.get());
                 ouput.accept(ModBlocks.Gold24_Block.get());
                 ouput.accept(ModBlocks.Lead_Block.get());
+                ouput.accept(ModBlocks.Magnesium_Block.get());
                 ouput.accept(ModBlocks.Silver_Block.get());
                 ouput.accept(ModBlocks.Tin_Block.get());
                 ouput.accept(ModBlocks.Zinc_Block.get());
-            //Tools
-                ouput.accept(ModItems.GOLDPAN.get());
-                ouput.accept(ModItems.NETHERGOLDPAN.get());
-            //Basic Machines
-                ouput.accept(ModBlocks.PANNING_MACHINE.get());
-                ouput.accept(ModBlocks.ORE_WASHER.get());
+            //Energy & Electricity
+            //GPS
+            //Technical Gadgets
+            //Programmable Androids
+            //Cargo Management
+            //Seasonal Categories
 
             }).build());
 

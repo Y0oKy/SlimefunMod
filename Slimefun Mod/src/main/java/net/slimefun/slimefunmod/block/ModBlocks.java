@@ -40,6 +40,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> Lead_Block = registerBlock("lead_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+    public static final RegistryObject<Block> Magnesium_Block = registerBlock("magnesium_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
     //Machines
     public static final RegistryObject<Block> PANNING_MACHINE = registerBlock("panning_machine",
             () -> new PanningMachine(BlockBehaviour.Properties.of()

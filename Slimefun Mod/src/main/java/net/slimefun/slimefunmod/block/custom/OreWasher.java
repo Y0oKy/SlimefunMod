@@ -58,6 +58,7 @@ public class OreWasher extends Block {
                             ModItems.Magnesium_Dust.get(),
                             ModItems.Tin_Dust.get(),
                             ModItems.Silver_Dust.get(),
+                            ModItems.Stone_Chunk.get(),
                             ModItems.Zinc_Dust.get()
                     };
 
